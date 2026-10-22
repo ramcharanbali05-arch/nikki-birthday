@@ -33,56 +33,56 @@ window.BIRTHDAY_CONFIG = {
   photos: [
     {
       id: 1,
-      url: "assets/images/niece-1.jpg",
+      url: "./niece-1.jpg",
       caption: "Our Little Princess 👑",
       date: "Precious Moment 1",
       tag: "Princess"
     },
     {
       id: 2,
-      url: "assets/images/niece-2.jpg",
+      url: "./niece-2.jpg",
       caption: "The Million-Dollar Smile ✨",
       date: "Precious Moment 2",
       tag: "Sunshine"
     },
     {
       id: 3,
-      url: "assets/images/niece-3.jpg",
+      url: "./niece-3.jpg",
       caption: "Cutest Explorer 🚀",
       date: "Precious Moment 3",
       tag: "Adventurer"
     },
     {
       id: 4,
-      url: "assets/images/niece-4.jpg",
+      url: "./niece-4.jpg",
       caption: "Sweetest Memories 💖",
       date: "Precious Moment 4",
       tag: "Treasured"
     },
     {
       id: 5,
-      url: "assets/images/niece-5.jpg",
+      url: "./niece-5.jpg",
       caption: "Always Bringing Joy 🌟",
       date: "Precious Moment 5",
       tag: "Joy Spreader"
     },
     {
       id: 6,
-      url: "assets/images/niece-6.jpg",
+      url: "./niece-6.jpg",
       caption: "Super Star in the Making 🎨",
       date: "Precious Moment 6",
       tag: "Creative Star"
     },
     {
       id: 7,
-      url: "assets/images/niece-7.jpg",
+      url: "./niece-7.jpg",
       caption: "Mischief & Fun 🎈",
       date: "Precious Moment 7",
       tag: "Playtime"
     },
     {
       id: 8,
-      url: "assets/images/niece-8.jpg",
+      url: "./niece-8.jpg",
       caption: "Happy 9th Birthday! 🎂",
       date: "The Big Day!",
       tag: "Birthday Queen"
